@@ -1,0 +1,9 @@
+.main {
+	width: 50vw;
+	height: 50vh;
+	background-color: #61dafb;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
